@@ -1,0 +1,6 @@
+luma.core
+luma.oled
+Pillow
+RPi.GPIO
+ftplib
+requests
